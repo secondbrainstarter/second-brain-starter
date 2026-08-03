@@ -1,0 +1,62 @@
+/* ============================================================
+   Second Brain in 10 Minuten — custom.css (Mini-Vault)
+   ------------------------------------------------------------
+   Kompakter Design-Ausschnitt aus dem Second Brain Starter.
+   Volles Design (Light+Dark, Karten, Druckansicht) gibt es in
+   der Vollversion.
+   ============================================================ */
+
+/* --- Markenfarben ------------------------------------------ */
+:root {
+  --sbs-accent: #7c5cff;            /* Violett — Markenfarbe */
+  --sbs-accent-strong: #5b3ee0;
+  --sbs-accent-soft: #ece7ff;
+  --sbs-text: #2e2a3a;
+  --sbs-text-muted: #8a8599;
+  --sbs-table-stripe: #f6f4fc;
+}
+
+/* --- Typografie --------------------------------------------- */
+.markdown-preview-view h1 {
+  border-bottom: 2px solid var(--sbs-accent-soft);
+  padding-bottom: 0.25em;
+}
+
+.markdown-preview-view h2 {
+  color: var(--sbs-accent-strong);
+}
+
+/* --- Tabellen ----------------------------------------------- */
+.markdown-preview-view table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.markdown-preview-view th {
+  background: var(--sbs-accent-soft);
+  color: var(--sbs-accent-strong);
+  text-align: left;
+}
+
+.markdown-preview-view tr:nth-child(even) td {
+  background: var(--sbs-table-stripe);
+}
+
+/* --- Tags --------------------------------------------------- */
+.tag {
+  background: var(--sbs-accent-soft);
+  color: var(--sbs-accent-strong);
+  border-radius: 999px;
+  padding: 0.05em 0.6em;
+  font-size: 0.85em;
+}
+
+/* --- Checkboxen --------------------------------------------- */
+.markdown-preview-view input[type="checkbox"] {
+  accent-color: var(--sbs-accent);
+}
+
+.markdown-preview-view li:has(> input[type="checkbox"]:checked) {
+  color: var(--sbs-text-muted);
+  text-decoration: line-through;
+}
