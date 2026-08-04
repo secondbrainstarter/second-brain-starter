@@ -92,7 +92,7 @@ or directly by [email](mailto:geld.hamster@gmx.net?subject=Mini-Vault%20Feedback
 
 - **Landing page (free mini-vault + demo):** https://secondbrainstarter.github.io/
 - **Demo:** https://secondbrainstarter.github.io/demo/second-brain-starter-demo.html
-- **Direct ZIP download:** `second-brain-in-10-minuten-v0.2.zip` (in this repo)
+- **Direct ZIP download:** `second-brain-in-10-minuten-v0.2.zip` (in this repo) — or via [Releases](https://github.com/secondbrainstarter/second-brain-starter/releases/latest/download/second-brain-in-10-minuten-v0.2.zip)
 - **Blog (method series, EN):**
   - [Your Second Brain in 10 Minutes](https://secondbrainstarter.github.io/blog/your-second-brain-in-10-minutes-a-free-obsidian-starter-vault.html)
   - [The Inbox Rule: Why 3 Folders Are Enough](https://secondbrainstarter.github.io/blog/the-inbox-rule-why-3-folders-are-enough-to-keep-your-note-system-from-collapsing.html)
@@ -192,7 +192,7 @@ iOS, Android) und installiere es.
 
 - **Veröffentlichungsseite (kostenloser Mini-Vault + Demo):** https://secondbrainstarter.github.io/
 - **Demo:** https://secondbrainstarter.github.io/demo/second-brain-starter-demo.html
-- **Direkter ZIP-Download:** `second-brain-in-10-minuten-v0.2.zip` (in diesem Repo)
+- **Direkter ZIP-Download:** `second-brain-in-10-minuten-v0.2.zip` (in diesem Repo) — oder via [Releases](https://github.com/secondbrainstarter/second-brain-starter/releases/latest/download/second-brain-in-10-minuten-v0.2.zip)
 - **Blog (Methodik-Serie, DE):**
   - [Kostenloser Mini-Vault: Second Brain in 10 Minuten](https://secondbrainstarter.github.io/blog/kostenloser-mini-vault-second-brain-in-10-minuten.html)
   - [Die Inbox-Regel: Warum 3 Ordner reichen](https://secondbrainstarter.github.io/blog/die-inbox-regel-warum-3-ordner-reichen-damit-dein-notizsystem-nicht-kippt.html)
