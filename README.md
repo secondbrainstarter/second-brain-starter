@@ -74,23 +74,23 @@ iOS, Android) and install it.
 ---
 
 **License:** personal, non-commercial use (see `LICENSE.md`).
-**Contact/feedback:** via the [landing page](https://second-brain-starter.surge.sh/)
+**Contact/feedback:** via the [landing page](https://secondbrainstarter.github.io/)
 or directly by [email](mailto:geld.hamster@gmx.net?subject=Mini-Vault%20Feedback).
 
 ---
 
 ## 🔗 Links
 
-- **Landing page (free mini-vault + demo):** https://second-brain-starter.surge.sh/
-- **Demo:** https://second-brain-starter.surge.sh/demo/second-brain-starter-demo.html
+- **Landing page (free mini-vault + demo):** https://secondbrainstarter.github.io/
+- **Demo:** https://secondbrainstarter.github.io/demo/second-brain-starter-demo.html
 - **Direct ZIP download:** `second-brain-in-10-minuten-v0.2.zip` (in this repo)
 - **Blog (method series, EN):**
-  - [Your Second Brain in 10 Minutes](https://second-brain-starter.surge.sh/blog/your-second-brain-in-10-minutes-a-free-obsidian-starter-vault.html)
-  - [The Inbox Rule: Why 3 Folders Are Enough](https://second-brain-starter.surge.sh/blog/the-inbox-rule-why-3-folders-are-enough-to-keep-your-note-system-from-collapsing.html)
-  - [The 17-Minute Rule](https://second-brain-starter.surge.sh/blog/the-17-minute-rule-how-a-fixed-evening-routine-keeps-your-note-system-alive.html)
-  - [The Daily Note](https://second-brain-starter.surge.sh/blog/the-daily-note-why-a-date-in-the-filename-keeps-your-system-alive.html)
-  - [Permanent Note or Project Note](https://second-brain-starter.surge.sh/blog/permanent-note-or-project-note-which-note-type-carries-your-system.html)
-  - [All articles](https://second-brain-starter.surge.sh/blog/)
+  - [Your Second Brain in 10 Minutes](https://secondbrainstarter.github.io/blog/your-second-brain-in-10-minutes-a-free-obsidian-starter-vault.html)
+  - [The Inbox Rule: Why 3 Folders Are Enough](https://secondbrainstarter.github.io/blog/the-inbox-rule-why-3-folders-are-enough-to-keep-your-note-system-from-collapsing.html)
+  - [The 17-Minute Rule](https://secondbrainstarter.github.io/blog/the-17-minute-rule-how-a-fixed-evening-routine-keeps-your-note-system-alive.html)
+  - [The Daily Note](https://secondbrainstarter.github.io/blog/the-daily-note-why-a-date-in-the-filename-keeps-your-system-alive.html)
+  - [Permanent Note or Project Note](https://secondbrainstarter.github.io/blog/permanent-note-or-project-note-which-note-type-carries-your-system.html)
+  - [All articles](https://secondbrainstarter.github.io/blog/)
 - **Waitlist for the full Second Brain Starter:** email
   geld.hamster@gmx.net — subject `Waitlist` (or `Warteliste`) is enough.
 
@@ -98,7 +98,7 @@ or directly by [email](mailto:geld.hamster@gmx.net?subject=Mini-Vault%20Feedback
 
 ## 🇩🇪 Deutsch
 
-*Deutsche Fassung — [Landing-Page](https://second-brain-starter.surge.sh/) · [Blog](https://second-brain-starter.surge.sh/blog/)*
+*Deutsche Fassung — [Landing-Page](https://secondbrainstarter.github.io/) · [Blog](https://secondbrainstarter.github.io/blog/)*
 
 # Second Brain in 10 Minuten
 
@@ -175,22 +175,22 @@ iOS, Android) und installiere es.
 ---
 
 **Lizenz:** Persönliche, nicht-kommerzielle Nutzung (siehe `LICENSE.md`).
-**Kontakt/Feedback:** über die [Veröffentlichungsseite](https://second-brain-starter.surge.sh/) oder direkt per [E-Mail](mailto:geld.hamster@gmx.net?subject=Mini-Vault%20Feedback).
+**Kontakt/Feedback:** über die [Veröffentlichungsseite](https://secondbrainstarter.github.io/) oder direkt per [E-Mail](mailto:geld.hamster@gmx.net?subject=Mini-Vault%20Feedback).
 
 ---
 
 ## 🔗 Links
 
-- **Veröffentlichungsseite (kostenloser Mini-Vault + Demo):** https://second-brain-starter.surge.sh/
-- **Demo:** https://second-brain-starter.surge.sh/demo/second-brain-starter-demo.html
+- **Veröffentlichungsseite (kostenloser Mini-Vault + Demo):** https://secondbrainstarter.github.io/
+- **Demo:** https://secondbrainstarter.github.io/demo/second-brain-starter-demo.html
 - **Direkter ZIP-Download:** `second-brain-in-10-minuten-v0.2.zip` (in diesem Repo)
 - **Blog (Methodik-Serie, DE):**
-  - [Kostenloser Mini-Vault: Second Brain in 10 Minuten](https://second-brain-starter.surge.sh/blog/kostenloser-mini-vault-second-brain-in-10-minuten.html)
-  - [Die Inbox-Regel: Warum 3 Ordner reichen](https://second-brain-starter.surge.sh/blog/die-inbox-regel-warum-3-ordner-reichen-damit-dein-notizsystem-nicht-kippt.html)
-  - [Die 17-Minuten-Regel](https://second-brain-starter.surge.sh/blog/die-17-minuten-regel-wie-eine-feste-abendroutine-dein-notizsystem-am-leben-halt.html)
-  - [Die Tagesnote](https://second-brain-starter.surge.sh/blog/die-tagesnote-warum-ein-datum-im-dateinamen-dein-system-am-laufen-halt.html)
-  - [Permanentnote oder Projektnote](https://second-brain-starter.surge.sh/blog/permanentnote-oder-projektnote-wann-welche-notiz-dein-system-tragt.html)
-  - [Alle Artikel](https://second-brain-starter.surge.sh/blog/)
+  - [Kostenloser Mini-Vault: Second Brain in 10 Minuten](https://secondbrainstarter.github.io/blog/kostenloser-mini-vault-second-brain-in-10-minuten.html)
+  - [Die Inbox-Regel: Warum 3 Ordner reichen](https://secondbrainstarter.github.io/blog/die-inbox-regel-warum-3-ordner-reichen-damit-dein-notizsystem-nicht-kippt.html)
+  - [Die 17-Minuten-Regel](https://secondbrainstarter.github.io/blog/die-17-minuten-regel-wie-eine-feste-abendroutine-dein-notizsystem-am-leben-halt.html)
+  - [Die Tagesnote](https://secondbrainstarter.github.io/blog/die-tagesnote-warum-ein-datum-im-dateinamen-dein-system-am-laufen-halt.html)
+  - [Permanentnote oder Projektnote](https://secondbrainstarter.github.io/blog/permanentnote-oder-projektnote-wann-welche-notiz-dein-system-tragt.html)
+  - [Alle Artikel](https://secondbrainstarter.github.io/blog/)
 - **Warteliste Second Brain Starter (Vollversion):** per E-Mail an
   geld.hamster@gmx.net — Betreff `Warteliste` genügt. Die Vollversion
   (10 Ordner, 14 Vorlagen, 8 Themen-Hubs, Methodik-Guides DE+EN) erscheint
