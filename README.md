@@ -11,6 +11,15 @@ that crosses your mind, plus a daily routine that costs you nothing but 17 minut
 
 ---
 
+## 👀 Preview
+
+![Second Brain Starter dashboard preview](img/hero-dashboard.png)
+
+*Live preview (rendered from the vault, no Obsidian needed):*
+**[secondbrainstarter.github.io/demo](https://secondbrainstarter.github.io/demo/second-brain-starter-demo.html)**
+
+---
+
 ## 🚀 Quick Start (10 minutes)
 
 ### Minute 0–2: Install Obsidian
