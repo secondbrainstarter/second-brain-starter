@@ -84,6 +84,13 @@ or directly by [email](mailto:geld.hamster@gmx.net?subject=Mini-Vault%20Feedback
 - **Landing page (free mini-vault + demo):** https://second-brain-starter.surge.sh/
 - **Demo:** https://second-brain-starter.surge.sh/demo/second-brain-starter-demo.html
 - **Direct ZIP download:** `second-brain-in-10-minuten-v0.2.zip` (in this repo)
+- **Blog (method series, EN):**
+  - [Your Second Brain in 10 Minutes](https://second-brain-starter.surge.sh/blog/your-second-brain-in-10-minutes-a-free-obsidian-starter-vault.html)
+  - [The Inbox Rule: Why 3 Folders Are Enough](https://second-brain-starter.surge.sh/blog/the-inbox-rule-why-3-folders-are-enough-to-keep-your-note-system-from-collapsing.html)
+  - [The 17-Minute Rule](https://second-brain-starter.surge.sh/blog/the-17-minute-rule-how-a-fixed-evening-routine-keeps-your-note-system-alive.html)
+  - [The Daily Note](https://second-brain-starter.surge.sh/blog/the-daily-note-why-a-date-in-the-filename-keeps-your-system-alive.html)
+  - [Permanent Note or Project Note](https://second-brain-starter.surge.sh/blog/permanent-note-or-project-note-which-note-type-carries-your-system.html)
+  - [All articles](https://second-brain-starter.surge.sh/blog/)
 - **Waitlist for the full Second Brain Starter:** email
   geld.hamster@gmx.net — subject `Waitlist` (or `Warteliste`) is enough.
 
@@ -177,6 +184,13 @@ iOS, Android) und installiere es.
 - **Veröffentlichungsseite (kostenloser Mini-Vault + Demo):** https://second-brain-starter.surge.sh/
 - **Demo:** https://second-brain-starter.surge.sh/demo/second-brain-starter-demo.html
 - **Direkter ZIP-Download:** `second-brain-in-10-minuten-v0.2.zip` (in diesem Repo)
+- **Blog (Methodik-Serie, DE):**
+  - [Kostenloser Mini-Vault: Second Brain in 10 Minuten](https://second-brain-starter.surge.sh/blog/kostenloser-mini-vault-second-brain-in-10-minuten.html)
+  - [Die Inbox-Regel: Warum 3 Ordner reichen](https://second-brain-starter.surge.sh/blog/die-inbox-regel-warum-3-ordner-reichen-damit-dein-notizsystem-nicht-kippt.html)
+  - [Die 17-Minuten-Regel](https://second-brain-starter.surge.sh/blog/die-17-minuten-regel-wie-eine-feste-abendroutine-dein-notizsystem-am-leben-halt.html)
+  - [Die Tagesnote](https://second-brain-starter.surge.sh/blog/die-tagesnote-warum-ein-datum-im-dateinamen-dein-system-am-laufen-halt.html)
+  - [Permanentnote oder Projektnote](https://second-brain-starter.surge.sh/blog/permanentnote-oder-projektnote-wann-welche-notiz-dein-system-tragt.html)
+  - [Alle Artikel](https://second-brain-starter.surge.sh/blog/)
 - **Warteliste Second Brain Starter (Vollversion):** per E-Mail an
   geld.hamster@gmx.net — Betreff `Warteliste` genügt. Die Vollversion
   (10 Ordner, 14 Vorlagen, 8 Themen-Hubs, Methodik-Guides DE+EN) erscheint
