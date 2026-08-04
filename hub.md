@@ -6,6 +6,8 @@ tagline: "Free Obsidian vault template — a working note system in the time it 
 author: secondbrainstarter
 categories: [pkm, starter, daily-note]
 tags: [obsidian, templates, bilingual, second-brain]
+screenshots:
+  - https://raw.githubusercontent.com/secondbrainstarter/second-brain-starter/main/img/hero-dashboard.png
 ---
 
 # Second Brain Starter — Free Obsidian Mini-Vault
