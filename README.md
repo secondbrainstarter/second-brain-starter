@@ -1,3 +1,96 @@
+# Second Brain Starter — Free Obsidian Mini-Vault
+
+**Free · Obsidian vault template · A working note system in the time it takes to drink a coffee**
+
+Three folders, three templates, three rules — and you have a place for everything
+that crosses your mind, plus a daily routine that costs you nothing but 17 minutes.
+
+> This is the free entry point to the **Second Brain Starter** — the full vault
+> system (10 folders, 14 templates, 8 topic hubs, DE+EN methodology guides,
+> custom design) that is coming soon.
+
+---
+
+## 🚀 Quick Start (10 minutes)
+
+### Minute 0–2: Install Obsidian
+Download Obsidian for free from **https://obsidian.md** (Windows, macOS, Linux,
+iOS, Android) and install it.
+
+### Minute 2–3: Open this vault
+1. Unzip the archive into a folder of your choice.
+2. Start Obsidian → **"Open folder as vault"** → select the folder.
+3. Done — settings and design are already preconfigured.
+
+### Minute 3–8: Understand the three rules (the whole trick)
+1. **Capture, don't sort.** Everything lands in `00_Inbox/` first — idea, task
+   or thought. Sorting happens in the evening (5 minutes).
+2. **One note, one idea.** Write in your own words what *you* mean — not what
+   somebody else wrote.
+3. **Always link.** Every note links at least one other note. That turns a
+   collection into a network — and the network is the "second brain".
+
+### Minute 8–10: Create your first two notes
+1. **Daily note:** open `07_Templates/Tagesnote.md` → copy the content → create
+   a new note in `06_Daily/` → filename = today's date, e.g. `2026-08-03.md`.
+   (With the Templates core plugin you can do this with one click from tomorrow:
+   enable the plugin and set the templates folder to `07_Templates`.)
+2. **Project note:** copy `07_Templates/Projektnote.md` → create a new note →
+   name = project name. A project note needs only THREE things: a goal, a
+   success criterion, and the next step.
+
+> **Note on language:** the templates of this free mini-vault are currently in
+> **German**. The full Second Brain Starter ships with German **and** English
+> templates and guides.
+
+---
+
+## 🗂️ What's inside
+
+| Folder | Purpose |
+|--------|---------|
+| `00_Inbox` | Inbox — everything lands here, emptied in the evening |
+| `06_Daily` | Daily notes & journal |
+| `07_Templates` | 3 templates: daily note, project note, permanent note |
+
+## 📅 Your 17-minute routine (from tomorrow)
+
+- **Morning (7 min):** create your daily note → write down 3 goals → review
+  yesterday's inbox (what is on today's plate?).
+- **Evening (10 min):** process the inbox (one note per idea, link, file away) →
+  close your daily note (what went well / what did you learn / what matters tomorrow).
+
+## 🔭 What the full version (Second Brain Starter) adds
+
+- **8 topic hubs + start dashboard** — manage projects, finances, health,
+  learning & more from one page
+- **14 templates** (instead of 3): meeting, goal, habit, book, decision, …
+- **6 methodology guides (DE+EN)**: PARA, Zettelkasten, daily routine — explained
+  without jargon
+- **Complete design** (light + dark, print view)
+
+---
+
+**License:** personal, non-commercial use (see `LICENSE.md`).
+**Contact/feedback:** via the [landing page](https://second-brain-starter.surge.sh/)
+or directly by [email](mailto:geld.hamster@gmx.net?subject=Mini-Vault%20Feedback).
+
+---
+
+## 🔗 Links
+
+- **Landing page (free mini-vault + demo):** https://second-brain-starter.surge.sh/
+- **Demo:** https://second-brain-starter.surge.sh/demo/second-brain-starter-demo.html
+- **Direct ZIP download:** `second-brain-in-10-minuten-v0.1.zip` (in this repo)
+- **Waitlist for the full Second Brain Starter:** email
+  geld.hamster@gmx.net — subject `Waitlist` (or `Warteliste`) is enough.
+
+---
+
+## 🇩🇪 Deutsch
+
+*Deutsche Fassung — [Landing-Page](https://second-brain-starter.surge.sh/) · [Blog](https://second-brain-starter.surge.sh/blog/)*
+
 # Second Brain in 10 Minuten
 
 **Kostenlos · Mini-Vault für Obsidian · Deutsch**
