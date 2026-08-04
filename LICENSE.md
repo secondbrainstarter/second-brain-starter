@@ -1,3 +1,26 @@
+# License — Second Brain in 10 Minutes (Mini-Vault)
+
+**Copyright © 2026 — All rights reserved.**
+
+## Allowed (personal use)
+
+- You may use this vault on any number of your own devices.
+- You may create notes based on the templates for your own use.
+- You may copy and share the vault for private purposes, as long as this
+  license stays attached.
+
+## Not allowed (without written permission)
+
+- Commercial use, resale, or redistribution of the vault or parts of it
+  (in particular the templates, the design, and the texts).
+- Publishing the vault as your own product or as part of a paid offering.
+- Removing copyright or license notices.
+
+Questions: via the [landing page](https://second-brain-starter.surge.sh/).
+The legally binding version is the German license below.
+
+---
+
 # Lizenz — Second Brain in 10 Minuten (Mini-Vault)
 
 **Copyright © 2026 — Alle Rechte vorbehalten.**

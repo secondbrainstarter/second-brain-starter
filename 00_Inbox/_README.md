@@ -1,3 +1,18 @@
+# 00_Inbox — Inbox
+
+**Rule:** Everything lands here — ideas, tasks, thoughts, links, scraps.
+Don't sort, don't decide. Just drop it in.
+
+**Evening (5 min):** process every note:
+
+1. **Is it a task?** → move it to your task tool or a project note.
+2. **Is it an idea?** → create a note with its own title (one note = one idea).
+3. **Does it need an answer/research?** → phrase it as a task.
+4. **Is it done/outdated?** → delete it (or put it into a project note).
+5. **Empty it!** The inbox is NOT an archive — it's a throughput machine.
+
+---
+
 # 00_Inbox — Eingangskorb
 
 **Regel:** Alles landet hier — Ideen, Aufgaben, Gedanken, Links, Zettel.

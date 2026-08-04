@@ -31,17 +31,19 @@ iOS, Android) and install it.
    collection into a network — and the network is the "second brain".
 
 ### Minute 8–10: Create your first two notes
-1. **Daily note:** open `07_Templates/Tagesnote.md` → copy the content → create
+1. **Daily note:** open `07_Templates/Daily-Note.md` (English) or
+   `07_Templates/Tagesnote.md` (German) → copy the content → create
    a new note in `06_Daily/` → filename = today's date, e.g. `2026-08-03.md`.
    (With the Templates core plugin you can do this with one click from tomorrow:
    enable the plugin and set the templates folder to `07_Templates`.)
-2. **Project note:** copy `07_Templates/Projektnote.md` → create a new note →
+2. **Project note:** copy `07_Templates/Project-Note.md` (or
+   `07_Templates/Projektnote.md` in German) → create a new note →
    name = project name. A project note needs only THREE things: a goal, a
    success criterion, and the next step.
 
-> **Note on language:** the templates of this free mini-vault are currently in
-> **German**. The full Second Brain Starter ships with German **and** English
-> templates and guides.
+> **Note on language:** this mini-vault now includes templates in **English
+> and German** (three of each — pick whichever works for you). The full Second
+> Brain Starter ships with guides in both languages too.
 
 ---
 
@@ -51,7 +53,7 @@ iOS, Android) and install it.
 |--------|---------|
 | `00_Inbox` | Inbox — everything lands here, emptied in the evening |
 | `06_Daily` | Daily notes & journal |
-| `07_Templates` | 3 templates: daily note, project note, permanent note |
+| `07_Templates` | 6 templates (3 EN + 3 DE): daily note, project note, permanent note |
 
 ## 📅 Your 17-minute routine (from tomorrow)
 
@@ -81,7 +83,7 @@ or directly by [email](mailto:geld.hamster@gmx.net?subject=Mini-Vault%20Feedback
 
 - **Landing page (free mini-vault + demo):** https://second-brain-starter.surge.sh/
 - **Demo:** https://second-brain-starter.surge.sh/demo/second-brain-starter-demo.html
-- **Direct ZIP download:** `second-brain-in-10-minuten-v0.1.zip` (in this repo)
+- **Direct ZIP download:** `second-brain-in-10-minuten-v0.2.zip` (in this repo)
 - **Waitlist for the full Second Brain Starter:** email
   geld.hamster@gmx.net — subject `Waitlist` (or `Warteliste`) is enough.
 
@@ -129,11 +131,13 @@ iOS, Android) und installiere es.
 ### Minute 8–10: Erste zwei Notizen anlegen
 1. **Tagesnote:** `07_Templates/Tagesnote.md` öffnen → Inhalt kopieren →
    neue Notiz in `06_Daily/` → Dateiname = heutiges Datum, z.B. `2026-08-03.md`.
-   (Mit dem Templates-Kernplugin geht das ab morgen per Klick: Plugin aktivieren,
-   Vorlagen-Ordner `07_Templates` wählen.)
+   (Englisch: `07_Templates/Daily-Note.md`. Mit dem Templates-Kernplugin geht
+   das ab morgen per Klick: Plugin aktivieren, Vorlagen-Ordner `07_Templates`
+   wählen.)
 2. **Projektnote:** `07_Templates/Projektnote.md` kopieren → neue Notiz →
-   Name = Projektname. Eine Projektnote braucht nur DREI Dinge: ein Ziel,
-   ein Erfolgskriterium, der nächste Schritt.
+   Name = Projektname. (Englisch: `07_Templates/Project-Note.md`.) Eine
+   Projektnote braucht nur DREI Dinge: ein Ziel, ein Erfolgskriterium, der
+   nächste Schritt.
 
 ---
 
@@ -143,7 +147,7 @@ iOS, Android) und installiere es.
 |--------|-------|
 | `00_Inbox` | Eingangskorb — alles landet hier, abends leeren |
 | `06_Daily` | Tagesnotizen & Journal |
-| `07_Templates` | 3 Vorlagen: Tagesnote, Projektnote, Permanentnote |
+| `07_Templates` | 6 Vorlagen (3 DE + 3 EN): Tagesnote, Projektnote, Permanentnote |
 
 ## 📅 Deine 17-Minuten-Routine (ab morgen)
 
@@ -172,7 +176,7 @@ iOS, Android) und installiere es.
 
 - **Veröffentlichungsseite (kostenloser Mini-Vault + Demo):** https://second-brain-starter.surge.sh/
 - **Demo:** https://second-brain-starter.surge.sh/demo/second-brain-starter-demo.html
-- **Direkter ZIP-Download:** `second-brain-in-10-minuten-v0.1.zip` (in diesem Repo)
+- **Direkter ZIP-Download:** `second-brain-in-10-minuten-v0.2.zip` (in diesem Repo)
 - **Warteliste Second Brain Starter (Vollversion):** per E-Mail an
   geld.hamster@gmx.net — Betreff `Warteliste` genügt. Die Vollversion
   (10 Ordner, 14 Vorlagen, 8 Themen-Hubs, Methodik-Guides DE+EN) erscheint
