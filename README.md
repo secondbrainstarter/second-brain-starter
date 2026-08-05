@@ -2,7 +2,7 @@
 
 **Free · Obsidian vault template · A working note system in the time it takes to drink a coffee**
 
-Three folders, three templates, three rules — and you have a place for everything
+Three folders, six templates (English and German), three rules — and you have a place for everything
 that crosses your mind, plus a daily routine that costs you nothing but 17 minutes.
 
 > This is the free entry point to the **Second Brain Starter** — the full vault
@@ -75,7 +75,7 @@ iOS, Android) and install it.
 
 - **8 topic hubs + start dashboard** — manage projects, finances, health,
   learning & more from one page
-- **14 templates** (instead of 3): meeting, goal, habit, book, decision, …
+- **14 templates** (instead of 3 types): meeting, goal, habit, book, decision, …
 - **6 methodology guides (DE+EN)**: PARA, Zettelkasten, daily routine — explained
   without jargon
 - **Complete design** (light + dark, print view)
@@ -114,7 +114,7 @@ or directly by [email](mailto:geld.hamster@gmx.net?subject=Mini-Vault%20Feedback
 **Kostenlos · Mini-Vault für Obsidian · Deutsch**
 
 Ein funktionierendes Notiz-System in der Zeit, die ein Kaffee braucht. Drei
-Ordner, drei Vorlagen, drei Regeln — danach hast du einen Ort für alles, was
+Ordner, sechs Vorlagen (Deutsch und Englisch), drei Regeln — danach hast du einen Ort für alles, was
 dir durch den Kopf geht, und eine tägliche Routine, die nichts kostet außer
 17 Minuten.
 
@@ -176,7 +176,7 @@ iOS, Android) und installiere es.
 
 - **8 Themen-Hubs + Start-Dashboard** — von einer Seite aus steuerst du
   Projekte, Finanzen, Gesundheit, Lernen & mehr
-- **14 Vorlagen** (statt 3): Meeting, Ziel, Habit, Buch, Entscheidung, …
+- **14 Vorlagen** (statt 3 Typen): Meeting, Ziel, Habit, Buch, Entscheidung, …
 - **6 Methodik-Guides** (DE+EN): PARA, Zettelkasten, Tagesroutine — ohne
   Fachjargon erklärt
 - **Vollständiges Design** (Light+Dark, Druckansicht)

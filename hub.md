@@ -12,7 +12,7 @@ screenshots:
 
 # Second Brain Starter — Free Obsidian Mini-Vault
 
-Three folders, three templates, three rules — and you have a place for everything
+Three folders, six templates (English and German), three rules — and you have a place for everything
 that crosses your mind, plus a daily routine that costs you 17 minutes a day.
 
 This is the free entry point to the **Second Brain Starter**: a complete,
